@@ -1,0 +1,80 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container{
+  box-shadow: 3px 1px 10px 0px rgba(133, 132, 132, 0.5);
+  border-radius: 10px;
+  width: 70%;
+  margin: 50px;
+  margin-top: 50px;
+  margin-left: 250px;
+  padding: 20px;
+}
+
+.container2{
+  box-shadow: 3px 1px 10px 0px rgba(133, 132, 132, 0.5);
+  border-radius: 10px;
+  width: 70%;
+  margin: 50px;
+  margin-left: 250px;
+  padding: 20px;
+}
+
+.container3{
+  box-shadow: 3px 1px 10px 0px rgba(133, 132, 132, 0.5);
+  border-radius: 10px;
+  width: 70%;
+  margin: 50px;
+  margin-left: 250px;
+}
+
+.container3 button{
+  width: 100%;
+  padding: 10px;
+}
+
+.atas3{
+  padding: 5px;
+}
+
+.atas3 p{
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.tengah3{
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.bawah3{
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.container4{
+  box-shadow: 3px 1px 10px 0px rgba(133, 132, 132, 0.5);
+  border-radius: 10px;
+  width: 70%;
+  margin: 50px;
+  margin-left: 250px;
+}
+
+.container5{
+  box-shadow: 3px 1px 10px 0px rgba(133, 132, 132, 0.5);
+  border-radius: 10px;
+  width: 70%;
+  margin: 50px;
+  margin-left: 250px;
+}
+
+.form{
+  width: 70%;
+  margin-left: 250px;
+  margin-bottom: 20px;
+}
